@@ -14,7 +14,7 @@ Para executar os testes:
 Executar o programa
 -------------------
 
-Simplesmente, invocar a classe ar_condicionado:
+Simplesmente, invocar a classe run:
 
     ruby run.rb [ARGS]
   
